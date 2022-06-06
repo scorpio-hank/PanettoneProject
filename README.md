@@ -1,6 +1,6 @@
 # PanettoneProject
 
-This is the new code location for the Panettone Project
+This is the revised code location for the Panettone Project
 
 The Panettone Project is an Embedded Systems project that aims to maintain a consistent ambient temperature for a sourdough starter whilst tracking its height over time
 
